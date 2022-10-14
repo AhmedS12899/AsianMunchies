@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+body{
+    margin-top: 12vh;
+}
+#home img{
+    height: 100%;
+    max-height: 400px;
+    width: 100%;
+    max-width: 100%;
+} 
+#home h1{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Satisfy', cursive;
+    font-size: 2.5rem;
+    color: red
+}
+#home .white, #home ul{
+    text-align: left;
+    color: white;
+    font-family:'Poppins';
+    list-style: circle;
+}
+#home .black{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    font-family:'Poppins';
+}
+.munchies:hover{
+    color: red;
+    text-decoration: underline;
+}
+html{
+    overflow-x: hidden;
+}
