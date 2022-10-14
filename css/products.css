@@ -1,0 +1,14 @@
+.card-img-top{
+    height: 300px;
+    border-bottom: 1px solid black;
+}
+body{
+    background-color: rgba(128, 128, 128, 0.445);
+}
+.card{
+    border: 1px solid black;
+    text-align: center;
+}
+.card-text{
+    text-align: left;
+}
